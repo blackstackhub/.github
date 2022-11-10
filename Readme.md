@@ -1,4 +1,4 @@
-This Open Source is for those who qualify in developing and managing software and hardware devices, to make technology free, quick and easy. we will be working on IoT, website design, mobile apps, desktop apps, AI, ML, and Cloud Computing.
+This Open Source is for those who qualify in developing or managing software and hardware devices, to provide free, quick and easy services. we will be working on IoT, website design, mobile apps, desktop apps, AI, ML, and Cloud Computing.
 
 
 
