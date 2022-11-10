@@ -14,10 +14,6 @@ We work on a variety of projects, including website design, mobile apps, desktop
 
 
 
-At our company, we work on the following: web design, AI/ML, mobile apps, desktop apps, security, IoT, data science, and DevOps.
-
-
-
 We are a team of engineers and developers who specialize in a variety of different fields. Web design, AI/ML, Mobile Apps, Desktop Apps, Security, and IoT are all areas that we have expertise in. If you have a project that you need help with, chances are we can assist you. 
 
 
